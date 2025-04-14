@@ -54,7 +54,7 @@ const Notes = () => {
   return (
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center px-4 py-12"
-      style={{ backgroundImage: "url(../../public/images/bg-image.jpg)" }}
+      style={{ backgroundImage: "url('/images/bg-image.jpg')" }}
     >
       <div className="w-full max-w-5xl bg-white/10 backdrop-blur-md p-8 rounded-xl shadow-2xl text-red-900">
         <div className="flex justify-between items-center mb-6">

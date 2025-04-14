@@ -4,7 +4,7 @@ A simple full-stack Notes App built with **React**, **Redux Toolkit**, **Tailwin
 
 ---
 
-## 🚀 Features
+## Features
 
 - User Authentication (Register/Login/Logout)
 - Create, Edit, and Delete Notes
@@ -14,7 +14,7 @@ A simple full-stack Notes App built with **React**, **Redux Toolkit**, **Tailwin
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **React**
 - **Redux Toolkit**
@@ -27,7 +27,7 @@ A simple full-stack Notes App built with **React**, **Redux Toolkit**, **Tailwin
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 

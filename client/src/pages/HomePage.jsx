@@ -3,11 +3,10 @@ import { Link } from "react-router-dom";
 
 const HomePage = () => {
   const user = useSelector((state) => state.user.user);
-  console.log(user);
   return (
     <div
       className="min-h-screen bg-cover bg-center relative"
-      style={{ backgroundImage: "url(../../public/images/bg-image.jpg)" }}
+      style={{ backgroundImage: "url('/images/bg-image.jpg')" }}
     >
       <div className="absolute inset-0 bg-black opacity-40"></div>
       <div className="relative min-h-screen flex items-center justify-center px-4">

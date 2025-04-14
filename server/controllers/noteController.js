@@ -44,7 +44,6 @@ const deleteNote = async (req, res) => {
 const updateNote = async (req, res) => {
   const { id } = req.params;
   const { title, content } = req.body;
-  console.log(title);
   try {
     const note = await Note.findById(id);
 
@@ -56,7 +55,6 @@ const updateNote = async (req, res) => {
 
     note.title = title || note.title;
     note.content = content || note.content;
-    console.log(note.title);
     const updatedNote = await note.save();
     res.json(updatedNote);
   } catch (error) {
