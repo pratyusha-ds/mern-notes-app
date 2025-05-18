@@ -7,7 +7,7 @@ A simple full-stack Notes App built with **React**, **Redux Toolkit**, **Tailwin
 ## Live links
 
 - **Frontend (Netlify)**: [https://pd-notes-app.netlify.app/](https://pd-notes-app.netlify.app/)
-- **Backend (Render)**: [https://mern-notes-app-299m.onrender.com](https://mern-notes-app-299m.onrender.com)
+- **Backend (Render)**: [https://mern-notes-app-f3g6.onrender.com](https://mern-notes-app-f3g6.onrender.com)
 
 ---
 
